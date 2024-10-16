@@ -40,7 +40,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="your-photo.jpg" alt="Ahmed Eladly" class="profile-pic">
+        <img src="C:\Users\Ahmed ElAdly\Desktop\ME\profile-pic (1).png" alt="Ahmed Eladly" class="profile-pic">
         <h1>Ahmed Eladly</h1>
         <p class="contact">
             Giza, Egypt | P: +201111124087 | ahmed5adly@gmail.com<br>
